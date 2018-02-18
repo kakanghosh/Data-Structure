@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1449419926 source:c:\users\jannat\desktop\sourcecode\tree travarsal\main.cpp
+	<iostream>
+
+1449512076 source:c:\users\otopor ami\desktop\tree travarsal\tree travarsal\main.cpp
+	<iostream>
+	<stdlib.h>
+

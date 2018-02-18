@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445024174 source:g:\programms\data structure\dynamic\main.cpp
+	<iostream>
+	<stdlib.h>
+	<new>
+
